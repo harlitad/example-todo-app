@@ -1,0 +1,7 @@
+DB_USER=postgres
+DB_PASSWORD=password
+DB_HOST=demo-mysql
+DB_PORT=5432
+DB_DIALECT=postgres
+DB_NAME=todo-express-sequelize-master
+NODE_ENV=development
